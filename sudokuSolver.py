@@ -1,6 +1,6 @@
 """
 author: Andrew S Erwin
-link: https://gitlab.com/andrewthecoder
+link: https://github.com/erwininteractive
 
 Backtracking algorithm to solve sudoku puzzles
 """
